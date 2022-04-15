@@ -1,7 +1,3 @@
-# password = 'a123456'
-
-# key = input('請輸入密碼: ')
-
 x = 2
 while x+1:
     password = 'a123456'
